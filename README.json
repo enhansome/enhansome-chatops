@@ -596,7 +596,7 @@
             "last_commit": "2025-04-04T20:45:06Z",
             "owner": "poshbotio",
             "repo": "PoshBot",
-            "stars": 546
+            "stars": 545
           }
         },
         {
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:50:06.235Z",
+    "last_updated": "2026-08-16T01:57:16.041Z",
     "original_repository": "exAspArk/awesome-chatops",
     "original_repository_sha": "540083ff5535a985d95f94557b98db8a11e186ac",
     "enhanced_repository": "enhansome/enhansome-chatops",
