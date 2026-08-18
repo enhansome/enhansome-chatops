@@ -122,7 +122,7 @@
             "last_commit": "2024-07-01T02:28:35Z",
             "owner": "howdyai",
             "repo": "botkit",
-            "stars": 11583
+            "stars": 11582
           }
         },
         {
@@ -359,7 +359,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-14T22:49:42Z",
+            "last_commit": "2026-08-17T20:02:58Z",
             "owner": "yetibot",
             "repo": "yetibot",
             "stars": 360
@@ -554,7 +554,7 @@
             "last_commit": "2024-07-01T02:28:35Z",
             "owner": "howdyai",
             "repo": "botkit",
-            "stars": 11583
+            "stars": 11582
           }
         },
         {
@@ -607,7 +607,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-14T22:49:42Z",
+            "last_commit": "2026-08-17T20:02:58Z",
             "owner": "yetibot",
             "repo": "yetibot",
             "stars": 360
@@ -866,7 +866,7 @@
             "last_commit": "2024-07-01T02:28:35Z",
             "owner": "howdyai",
             "repo": "botkit",
-            "stars": 11583
+            "stars": 11582
           }
         },
         {
@@ -1057,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:55:46.621Z",
+    "last_updated": "2026-08-18T01:50:45.821Z",
     "original_repository": "exAspArk/awesome-chatops",
     "original_repository_sha": "540083ff5535a985d95f94557b98db8a11e186ac",
     "enhanced_repository": "enhansome/enhansome-chatops",
