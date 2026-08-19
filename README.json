@@ -1,1064 +1,1139 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "These open source projects will help you to build a bot to automate your company chat depending on the platform.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2021-06-25T06:16:46Z",
-            "owner": "josacar",
-            "repo": "lita-campfire",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 11506414,
+                "language": "Ruby",
+                "last_commit": "2021-06-25T06:16:46Z",
+                "owner": "josacar",
+                "repo": "lita-campfire",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Errbot",
+              "description": "+ adapter (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39521137,
+                "language": "Python",
+                "last_commit": "2016-06-06T23:18:18Z",
+                "owner": "errbotio",
+                "repo": "err-backend-campfire",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Campfire"
         },
         {
-          "node_type": "item",
-          "title": "Errbot",
-          "description": "+ adapter (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-06-06T23:18:18Z",
-            "owner": "errbotio",
-            "repo": "err-backend-campfire",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14786367,
+                "language": "CoffeeScript",
+                "last_commit": "2017-04-23T00:55:56Z",
+                "owner": "akiomik",
+                "repo": "hubot-chatwork",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30073952,
+                "language": "Ruby",
+                "last_commit": "2017-08-19T06:23:03Z",
+                "owner": "tokada",
+                "repo": "lita-chatwork",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ChatWork"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Errbot",
+              "description": "+ adapter (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59597750,
+                "language": "Python",
+                "last_commit": "2026-07-13T14:36:51Z",
+                "owner": "errbotio",
+                "repo": "err-backend-discord",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Discordrb",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449438732,
+                "language": null,
+                "last_commit": "2023-04-12T10:40:50Z",
+                "owner": "meew0",
+                "repo": "discordrb",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Discord"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Botkit",
+              "description": "(JavaScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47851629,
+                "language": "TypeScript",
+                "last_commit": "2024-07-01T02:28:35Z",
+                "owner": "howdyai",
+                "repo": "botkit",
+                "stars": 11581
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FacebookMessenger",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56318788,
+                "language": "Ruby",
+                "last_commit": "2025-12-19T13:39:38Z",
+                "owner": "jgorset",
+                "repo": "facebook-messenger",
+                "stars": 969
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56101103,
+                "language": "CoffeeScript",
+                "last_commit": "2018-02-25T21:39:33Z",
+                "owner": "ClaudeBot",
+                "repo": "hubot-messenger-bot",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Opsdroid",
+              "description": "+ connector (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94115048,
+                "language": "Python",
+                "last_commit": "2018-10-06T08:39:06Z",
+                "owner": "opsdroid",
+                "repo": "connector-facebook",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Facebook Messenger"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2772575,
+                "language": "CoffeeScript",
+                "last_commit": "2020-07-30T18:34:08Z",
+                "owner": "flowdock",
+                "repo": "hubot-flowdock",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29892864,
+                "language": "Ruby",
+                "last_commit": "2016-10-27T21:12:43Z",
+                "owner": "bhouse",
+                "repo": "lita-flowdock",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flowdock"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22799356,
+                "language": "CoffeeScript",
+                "last_commit": "2018-03-13T10:57:42Z",
+                "owner": "huafu",
+                "repo": "hubot-gitter2",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Errbot",
+              "description": "+ adapter (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38651474,
+                "language": "Python",
+                "last_commit": "2021-02-03T21:53:48Z",
+                "owner": "errbotio",
+                "repo": "err-backend-gitter",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37741807,
+                "language": "Ruby",
+                "last_commit": "2015-10-23T15:35:55Z",
+                "owner": "kotovalexarian",
+                "repo": "lita-gitter",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gitter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2752836,
+                "language": "CoffeeScript",
+                "last_commit": "2021-05-06T17:25:26Z",
+                "owner": "hipchat",
+                "repo": "hubot-hipchat",
+                "stars": 659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hipchat-go",
+              "description": "via HipChat API v2 (Go)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24943022,
+                "language": "Go",
+                "last_commit": "2018-10-24T20:41:14Z",
+                "owner": "tbruyelle",
+                "repo": "hipchat-go",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hipchat",
+              "description": "via XMPP (Go)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9724058,
+                "language": "Go",
+                "last_commit": "2017-06-12T14:49:06Z",
+                "owner": "dane",
+                "repo": "hipchat",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hipbot",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4694204,
+                "language": "Ruby",
+                "last_commit": "2017-11-19T13:46:19Z",
+                "owner": "pewniak747",
+                "repo": "hipbot",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10702152,
+                "language": "Ruby",
+                "last_commit": "2017-01-18T00:16:09Z",
+                "owner": "litaio",
+                "repo": "lita-hipchat",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HipChat"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cinch",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 625346,
+                "language": "Ruby",
+                "last_commit": "2019-04-13T16:11:08Z",
+                "owner": "cinchrb",
+                "repo": "cinch",
+                "stars": 999
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yetibot",
+              "description": "(Clojure)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2977472,
+                "language": "Clojure",
+                "last_commit": "2026-08-18T03:27:37Z",
+                "owner": "yetibot",
+                "repo": "yetibot",
+                "stars": 361
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2859856,
+                "language": "CoffeeScript",
+                "last_commit": "2021-11-24T19:28:58Z",
+                "owner": "nandub",
+                "repo": "hubot-irc",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PagerBot",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22235681,
+                "language": "Ruby",
+                "last_commit": "2019-02-24T09:42:37Z",
+                "owner": "stripe-contrib",
+                "repo": "pagerbot",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10685040,
+                "language": "Ruby",
+                "last_commit": "2021-08-02T06:12:33Z",
+                "owner": "litaio",
+                "repo": "lita-irc",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IRC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter via Websockets (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 51656135,
+                "language": "JavaScript",
+                "last_commit": "2025-01-17T10:57:33Z",
+                "owner": "loafoe",
+                "repo": "hubot-matteruser",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45951212,
+                "language": "CoffeeScript",
+                "last_commit": "2017-01-15T12:17:33Z",
+                "owner": "renanvicente",
+                "repo": "hubot-mattermost",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Errbot",
+              "description": "+ adapter (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82108873,
+                "language": "Python",
+                "last_commit": "2025-02-10T06:12:29Z",
+                "owner": "errbotio",
+                "repo": "err-backend-mattermost",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mattermost"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 36918949,
+                "language": "JavaScript",
+                "last_commit": "2025-10-11T19:32:14Z",
+                "owner": "RocketChat",
+                "repo": "hubot-rocketchat",
+                "stars": 594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Errbot",
+              "description": "+ adapter (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76524603,
+                "language": "Python",
+                "last_commit": "2016-12-15T16:28:49Z",
+                "owner": "AoiKuiyuyou",
+                "repo": "AoikRocketChatErrbot",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rocket.Chat"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4348757,
+                "language": "CoffeeScript",
+                "last_commit": "2014-02-04T04:17:06Z",
+                "owner": "netpro2k",
+                "repo": "hubot-skype",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter via Web (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38257395,
+                "language": "CoffeeScript",
+                "last_commit": "2016-10-18T16:18:28Z",
+                "owner": "sdimkov",
+                "repo": "hubot-skype-web",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Errbot",
+              "description": "+ adapter (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 53181944,
+                "language": "Python",
+                "last_commit": "2021-08-16T06:37:39Z",
+                "owner": "errbotio",
+                "repo": "err-backend-skype",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Skype"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Botkit",
+              "description": "(JavaScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47851629,
+                "language": "TypeScript",
+                "last_commit": "2024-07-01T02:28:35Z",
+                "owner": "howdyai",
+                "repo": "botkit",
+                "stars": 11581
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 9609738,
+                "language": "CoffeeScript",
+                "last_commit": "2024-08-12T19:59:33Z",
+                "owner": "slackapi",
+                "repo": "hubot-slack",
+                "stars": 2328
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elixir-Slack",
+              "description": "(Elixir)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28551492,
+                "language": "Elixir",
+                "last_commit": "2024-06-26T22:12:10Z",
+                "owner": "BlakeWilliams",
+                "repo": "Elixir-Slack",
+                "stars": 683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PoshBot",
+              "description": "(PowerShell)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77993715,
+                "language": "PowerShell",
+                "last_commit": "2025-04-04T20:45:06Z",
+                "owner": "poshbotio",
+                "repo": "PoshBot",
+                "stars": 545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yetibot",
+              "description": "(Clojure)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2977472,
+                "language": "Clojure",
+                "last_commit": "2026-08-18T03:27:37Z",
+                "owner": "yetibot",
+                "repo": "yetibot",
+                "stars": 361
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PagerBot",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22235681,
+                "language": "Ruby",
+                "last_commit": "2019-02-24T09:42:37Z",
+                "owner": "stripe-contrib",
+                "repo": "pagerbot",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 15379685,
+                "language": "Ruby",
+                "last_commit": "2022-01-17T10:11:37Z",
+                "owner": "litaio",
+                "repo": "lita-slack",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Slacker",
+              "description": "(Elixir)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35307342,
+                "language": "Elixir",
+                "last_commit": "2016-06-27T19:05:58Z",
+                "owner": "koudelka",
+                "repo": "slacker",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Slackbotsy",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16925060,
+                "language": "Ruby",
+                "last_commit": "2017-08-01T14:28:13Z",
+                "owner": "rlister",
+                "repo": "slackbotsy",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jubot",
+              "description": "(Clojure)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29815793,
+                "language": "Clojure",
+                "last_commit": "2015-05-10T07:33:11Z",
+                "owner": "liquidz",
+                "repo": "jubot",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Slack-Ruby-Bot",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66153833,
+                "language": "Ruby",
+                "last_commit": "2025-09-22T11:52:44Z",
+                "owner": "dblock",
+                "repo": "slack-ruby-bot",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multivac",
+              "description": "(Python, Docker)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38933818,
+                "language": "Python",
+                "last_commit": "2021-04-06T10:21:49Z",
+                "owner": "vektorlab",
+                "repo": "multivac",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Opsdroid",
+              "description": "+ connector (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 64331231,
+                "language": "Python",
+                "last_commit": "2018-09-22T14:07:46Z",
+                "owner": "opsdroid",
+                "repo": "connector-slack",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Slack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Telegram-bot-ruby",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38169179,
+                "language": "Ruby",
+                "last_commit": "2026-08-02T15:10:38Z",
+                "owner": "atipugin",
+                "repo": "telegram-bot-ruby",
+                "stars": 1425
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TelegramBot",
+              "description": "(Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38015820,
+                "language": "Ruby",
+                "last_commit": "2023-09-14T21:38:37Z",
+                "owner": "eljojo",
+                "repo": "telegram_bot",
+                "stars": 296
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38040687,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T13:26:40Z",
+                "owner": "lukefx",
+                "repo": "hubot-telegram",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TelegramBot",
+              "description": "(Crystal)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45257420,
+                "language": "Crystal",
+                "last_commit": "2020-04-14T17:06:11Z",
+                "owner": "hangyas",
+                "repo": "telegram_bot",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41203850,
+                "language": "Ruby",
+                "last_commit": "2016-03-08T19:47:10Z",
+                "owner": "rmcfadzean",
+                "repo": "lita-telegram",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Opsdroid",
+              "description": "+ connector (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 80564005,
+                "language": "Python",
+                "last_commit": "2019-10-21T15:22:30Z",
+                "owner": "opsdroid",
+                "repo": "connector-telegram",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Telegram"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 39656210,
+                "language": "Ruby",
+                "last_commit": "2018-03-23T23:16:46Z",
+                "owner": "toxon",
+                "repo": "lita-tox",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Errbot",
+              "description": "+ adapter (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39522321,
+                "language": "Python",
+                "last_commit": "2015-07-24T20:34:38Z",
+                "owner": "errbotio",
+                "repo": "err-backend-tox",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tox"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Botkit",
+              "description": "via IP Messaging (JavaScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47851629,
+                "language": "TypeScript",
+                "last_commit": "2024-07-01T02:28:35Z",
+                "owner": "howdyai",
+                "repo": "botkit",
+                "stars": 11581
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter via SMS (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6069714,
+                "language": "CoffeeScript",
+                "last_commit": "2016-04-22T05:16:02Z",
+                "owner": "jkarmel",
+                "repo": "hubot-twilio",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter via IP Messaging (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48137123,
+                "language": "CoffeeScript",
+                "last_commit": "2015-12-17T01:08:48Z",
+                "owner": "philnash",
+                "repo": "hubot-twilio-ip-messaging",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Twilio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2830807,
+                "language": "CoffeeScript",
+                "last_commit": "2015-06-03T13:13:04Z",
+                "owner": "MathildeLemee",
+                "repo": "hubot-twitter",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19379583,
+                "language": "Ruby",
+                "last_commit": "2017-12-19T11:10:13Z",
+                "owner": "fukayatsu",
+                "repo": "lita-twitter",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Opsdroid",
+              "description": "+ connector (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82064846,
+                "language": "Python",
+                "last_commit": "2018-04-03T07:44:58Z",
+                "owner": "opsdroid",
+                "repo": "connector-twitter",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Twitter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Errbot",
+              "description": "+ adapter (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68133442,
+                "language": "Python",
+                "last_commit": "2019-02-21T18:06:42Z",
+                "owner": "Ax3Effect",
+                "repo": "errbot-vk",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37559252,
+                "language": "Ruby",
+                "last_commit": "2015-10-25T12:38:42Z",
+                "owner": "kotovalexarian",
+                "repo": "lita-vkontakte",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vkontakte"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2769757,
+                "language": "JavaScript",
+                "last_commit": "2022-12-30T19:16:36Z",
+                "owner": "xmppjs",
+                "repo": "hubot-xmpp",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jabberjay",
+              "description": "(Clojure)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31476761,
+                "language": "Clojure",
+                "last_commit": "2018-11-16T22:09:42Z",
+                "owner": "vbauer",
+                "repo": "jabberjay",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XMPP / Jabber"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13748956,
+                "language": "CoffeeScript",
+                "last_commit": "2023-09-20T23:00:37Z",
+                "owner": "zulip",
+                "repo": "hubot-zulip",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Errbot",
+              "description": "+ adapter (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105759350,
+                "language": "Python",
+                "last_commit": "2025-10-03T19:03:02Z",
+                "owner": "zulip",
+                "repo": "errbot-backend-zulip",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Zulip"
         }
       ],
-      "title": "Campfire"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2017-04-23T00:55:56Z",
-            "owner": "akiomik",
-            "repo": "hubot-chatwork",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-08-19T06:23:03Z",
-            "owner": "tokada",
-            "repo": "lita-chatwork",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "ChatWork"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Errbot",
-          "description": "+ adapter (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-13T14:36:51Z",
-            "owner": "errbotio",
-            "repo": "err-backend-discord",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Discordrb",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-12T10:40:50Z",
-            "owner": "meew0",
-            "repo": "discordrb",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": []
-        }
-      ],
-      "title": "Discord"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Botkit",
-          "description": "(JavaScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-07-01T02:28:35Z",
-            "owner": "howdyai",
-            "repo": "botkit",
-            "stars": 11581
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FacebookMessenger",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-12-19T13:39:38Z",
-            "owner": "jgorset",
-            "repo": "facebook-messenger",
-            "stars": 969
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2018-02-25T21:39:33Z",
-            "owner": "ClaudeBot",
-            "repo": "hubot-messenger-bot",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Opsdroid",
-          "description": "+ connector (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2018-10-06T08:39:06Z",
-            "owner": "opsdroid",
-            "repo": "connector-facebook",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": []
-        }
-      ],
-      "title": "Facebook Messenger"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CoffeeScript",
-            "last_commit": "2020-07-30T18:34:08Z",
-            "owner": "flowdock",
-            "repo": "hubot-flowdock",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2016-10-27T21:12:43Z",
-            "owner": "bhouse",
-            "repo": "lita-flowdock",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Flowdock"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2018-03-13T10:57:42Z",
-            "owner": "huafu",
-            "repo": "hubot-gitter2",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Errbot",
-          "description": "+ adapter (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-03T21:53:48Z",
-            "owner": "errbotio",
-            "repo": "err-backend-gitter",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2015-10-23T15:35:55Z",
-            "owner": "kotovalexarian",
-            "repo": "lita-gitter",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Gitter"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2021-05-06T17:25:26Z",
-            "owner": "hipchat",
-            "repo": "hubot-hipchat",
-            "stars": 659
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hipchat-go",
-          "description": "via HipChat API v2 (Go)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2018-10-24T20:41:14Z",
-            "owner": "tbruyelle",
-            "repo": "hipchat-go",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hipchat",
-          "description": "via XMPP (Go)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2017-06-12T14:49:06Z",
-            "owner": "dane",
-            "repo": "hipchat",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hipbot",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-11-19T13:46:19Z",
-            "owner": "pewniak747",
-            "repo": "hipbot",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2017-01-18T00:16:09Z",
-            "owner": "litaio",
-            "repo": "lita-hipchat",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "HipChat"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cinch",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2019-04-13T16:11:08Z",
-            "owner": "cinchrb",
-            "repo": "cinch",
-            "stars": 999
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yetibot",
-          "description": "(Clojure)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-18T03:27:37Z",
-            "owner": "yetibot",
-            "repo": "yetibot",
-            "stars": 361
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2021-11-24T19:28:58Z",
-            "owner": "nandub",
-            "repo": "hubot-irc",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PagerBot",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2019-02-24T09:42:37Z",
-            "owner": "stripe-contrib",
-            "repo": "pagerbot",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2021-08-02T06:12:33Z",
-            "owner": "litaio",
-            "repo": "lita-irc",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "IRC"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter via Websockets (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2025-01-17T10:57:33Z",
-            "owner": "loafoe",
-            "repo": "hubot-matteruser",
-            "stars": 195
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2017-01-15T12:17:33Z",
-            "owner": "renanvicente",
-            "repo": "hubot-mattermost",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Errbot",
-          "description": "+ adapter (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-10T06:12:29Z",
-            "owner": "errbotio",
-            "repo": "err-backend-mattermost",
-            "stars": 42
-          }
-        }
-      ],
-      "title": "Mattermost"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2025-10-11T19:32:14Z",
-            "owner": "RocketChat",
-            "repo": "hubot-rocketchat",
-            "stars": 594
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Errbot",
-          "description": "+ adapter (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-12-15T16:28:49Z",
-            "owner": "AoiKuiyuyou",
-            "repo": "AoikRocketChatErrbot",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Rocket.Chat"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2014-02-04T04:17:06Z",
-            "owner": "netpro2k",
-            "repo": "hubot-skype",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter via Web (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2016-10-18T16:18:28Z",
-            "owner": "sdimkov",
-            "repo": "hubot-skype-web",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Errbot",
-          "description": "+ adapter (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-08-16T06:37:39Z",
-            "owner": "errbotio",
-            "repo": "err-backend-skype",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Skype"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Botkit",
-          "description": "(JavaScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-07-01T02:28:35Z",
-            "owner": "howdyai",
-            "repo": "botkit",
-            "stars": 11581
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CoffeeScript",
-            "last_commit": "2024-08-12T19:59:33Z",
-            "owner": "slackapi",
-            "repo": "hubot-slack",
-            "stars": 2328
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elixir-Slack",
-          "description": "(Elixir)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2024-06-26T22:12:10Z",
-            "owner": "BlakeWilliams",
-            "repo": "Elixir-Slack",
-            "stars": 683
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PoshBot",
-          "description": "(PowerShell)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2025-04-04T20:45:06Z",
-            "owner": "poshbotio",
-            "repo": "PoshBot",
-            "stars": 545
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yetibot",
-          "description": "(Clojure)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-18T03:27:37Z",
-            "owner": "yetibot",
-            "repo": "yetibot",
-            "stars": 361
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PagerBot",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2019-02-24T09:42:37Z",
-            "owner": "stripe-contrib",
-            "repo": "pagerbot",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2022-01-17T10:11:37Z",
-            "owner": "litaio",
-            "repo": "lita-slack",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Slacker",
-          "description": "(Elixir)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2016-06-27T19:05:58Z",
-            "owner": "koudelka",
-            "repo": "slacker",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Slackbotsy",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-08-01T14:28:13Z",
-            "owner": "rlister",
-            "repo": "slackbotsy",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jubot",
-          "description": "(Clojure)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2015-05-10T07:33:11Z",
-            "owner": "liquidz",
-            "repo": "jubot",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Slack-Ruby-Bot",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-09-22T11:52:44Z",
-            "owner": "dblock",
-            "repo": "slack-ruby-bot",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multivac",
-          "description": "(Python, Docker)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-04-06T10:21:49Z",
-            "owner": "vektorlab",
-            "repo": "multivac",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Opsdroid",
-          "description": "+ connector (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2018-09-22T14:07:46Z",
-            "owner": "opsdroid",
-            "repo": "connector-slack",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Slack"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Telegram-bot-ruby",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-02T15:10:38Z",
-            "owner": "atipugin",
-            "repo": "telegram-bot-ruby",
-            "stars": 1425
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TelegramBot",
-          "description": "(Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2023-09-14T21:38:37Z",
-            "owner": "eljojo",
-            "repo": "telegram_bot",
-            "stars": 296
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-06T13:26:40Z",
-            "owner": "lukefx",
-            "repo": "hubot-telegram",
-            "stars": 160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TelegramBot",
-          "description": "(Crystal)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Crystal",
-            "last_commit": "2020-04-14T17:06:11Z",
-            "owner": "hangyas",
-            "repo": "telegram_bot",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2016-03-08T19:47:10Z",
-            "owner": "rmcfadzean",
-            "repo": "lita-telegram",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Opsdroid",
-          "description": "+ connector (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-10-21T15:22:30Z",
-            "owner": "opsdroid",
-            "repo": "connector-telegram",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Telegram"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2018-03-23T23:16:46Z",
-            "owner": "toxon",
-            "repo": "lita-tox",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Errbot",
-          "description": "+ adapter (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-07-24T20:34:38Z",
-            "owner": "errbotio",
-            "repo": "err-backend-tox",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Tox"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Botkit",
-          "description": "via IP Messaging (JavaScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-07-01T02:28:35Z",
-            "owner": "howdyai",
-            "repo": "botkit",
-            "stars": 11581
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter via SMS (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2016-04-22T05:16:02Z",
-            "owner": "jkarmel",
-            "repo": "hubot-twilio",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter via IP Messaging (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2015-12-17T01:08:48Z",
-            "owner": "philnash",
-            "repo": "hubot-twilio-ip-messaging",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Twilio"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2015-06-03T13:13:04Z",
-            "owner": "MathildeLemee",
-            "repo": "hubot-twitter",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-12-19T11:10:13Z",
-            "owner": "fukayatsu",
-            "repo": "lita-twitter",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Opsdroid",
-          "description": "+ connector (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-04-03T07:44:58Z",
-            "owner": "opsdroid",
-            "repo": "connector-twitter",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Twitter"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Errbot",
-          "description": "+ adapter (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-02-21T18:06:42Z",
-            "owner": "Ax3Effect",
-            "repo": "errbot-vk",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lita",
-          "description": "+ adapter (Ruby)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2015-10-25T12:38:42Z",
-            "owner": "kotovalexarian",
-            "repo": "lita-vkontakte",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Vkontakte"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-30T19:16:36Z",
-            "owner": "xmppjs",
-            "repo": "hubot-xmpp",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jabberjay",
-          "description": "(Clojure)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2018-11-16T22:09:42Z",
-            "owner": "vbauer",
-            "repo": "jabberjay",
-            "stars": 39
-          }
-        }
-      ],
-      "title": "XMPP / Jabber"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hubot",
-          "description": "+ adapter (CoffeeScript, Node.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2023-09-20T23:00:37Z",
-            "owner": "zulip",
-            "repo": "hubot-zulip",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Errbot",
-          "description": "+ adapter (Python)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-03T19:03:02Z",
-            "owner": "zulip",
-            "repo": "errbot-backend-zulip",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Zulip"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "title": "Frameworks and libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:53:32.790Z",
+    "last_updated": "2026-08-19T12:21:37.246Z",
     "original_repository": "exAspArk/awesome-chatops",
+    "original_repository_id": 63793563,
     "original_repository_sha": "540083ff5535a985d95f94557b98db8a11e186ac",
     "enhanced_repository": "enhansome/enhansome-chatops",
     "enhanced_repository_description": null,
