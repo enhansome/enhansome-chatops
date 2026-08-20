@@ -378,7 +378,7 @@
                 "archived": false,
                 "id": 2977472,
                 "language": "Clojure",
-                "last_commit": "2026-08-18T03:27:37Z",
+                "last_commit": "2026-08-19T22:02:38Z",
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 361
@@ -646,7 +646,7 @@
                 "archived": false,
                 "id": 2977472,
                 "language": "Clojure",
-                "last_commit": "2026-08-18T03:27:37Z",
+                "last_commit": "2026-08-19T22:02:38Z",
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 361
@@ -1131,7 +1131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:37.246Z",
+    "last_updated": "2026-08-20T01:51:36.984Z",
     "original_repository": "exAspArk/awesome-chatops",
     "original_repository_id": 63793563,
     "original_repository_sha": "540083ff5535a985d95f94557b98db8a11e186ac",
