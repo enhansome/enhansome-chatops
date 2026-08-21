@@ -378,7 +378,7 @@
                 "archived": false,
                 "id": 2977472,
                 "language": "Clojure",
-                "last_commit": "2026-08-19T22:02:38Z",
+                "last_commit": "2026-08-20T22:35:52Z",
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 361
@@ -646,7 +646,7 @@
                 "archived": false,
                 "id": 2977472,
                 "language": "Clojure",
-                "last_commit": "2026-08-19T22:02:38Z",
+                "last_commit": "2026-08-20T22:35:52Z",
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 361
@@ -791,7 +791,7 @@
                 "last_commit": "2026-08-02T15:10:38Z",
                 "owner": "atipugin",
                 "repo": "telegram-bot-ruby",
-                "stars": 1425
+                "stars": 1426
               }
             },
             {
@@ -1131,7 +1131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:51:36.984Z",
+    "last_updated": "2026-08-21T01:57:32.132Z",
     "original_repository": "exAspArk/awesome-chatops",
     "original_repository_id": 63793563,
     "original_repository_sha": "540083ff5535a985d95f94557b98db8a11e186ac",
