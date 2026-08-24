@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5291178,
+                "language": "CoffeeScript",
+                "last_commit": "2013-04-05T13:33:49Z",
+                "owner": "shaundubuque",
+                "repo": "hubot-aim",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AIM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Lita",
               "description": "+ adapter (Ruby)",
               "children": [],
@@ -190,6 +212,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 22781999,
+                "language": "CoffeeScript",
+                "last_commit": "2022-09-20T07:52:24Z",
+                "owner": "anroots",
+                "repo": "hubot-fleep",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fleep"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
                 "id": 2772575,
                 "language": "CoffeeScript",
                 "last_commit": "2020-07-30T18:34:08Z",
@@ -356,6 +400,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Lita",
+              "description": "+ adapter (Ruby)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18997403,
+                "language": "Ruby",
+                "last_commit": "2020-01-14T12:51:42Z",
+                "owner": "fukayatsu",
+                "repo": "lita-idobata",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Idobata"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8348820,
+                "language": "AppleScript",
+                "last_commit": "2014-04-17T13:10:18Z",
+                "owner": "lazerwalker",
+                "repo": "hubot-imessage",
+                "stars": 173
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iMessage"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Cinch",
               "description": "(Ruby)",
               "children": [],
@@ -439,6 +527,72 @@
             {
               "node_type": "item",
               "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 9741309,
+                "language": "CoffeeScript",
+                "last_commit": "2015-12-05T02:35:33Z",
+                "owner": "sdelements",
+                "repo": "hubot-lets-chat",
+                "stars": 58
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Let's chat"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18087829,
+                "language": "CoffeeScript",
+                "last_commit": "2014-04-02T21:50:55Z",
+                "owner": "miyagawa",
+                "repo": "hubot-lingr",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lingr"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Opsdroid",
+              "description": "+ connector (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 107049735,
+                "language": "Python",
+                "last_commit": "2019-01-16T15:34:58Z",
+                "owner": "opsdroid",
+                "repo": "connector-matrix",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Matrix"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
               "description": "+ adapter via Websockets (CoffeeScript, Node.js)",
               "children": [],
               "repo_info": {
@@ -485,6 +639,50 @@
           "description": null,
           "node_type": "group",
           "title": "Mattermost"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2830322,
+                "language": "CoffeeScript",
+                "last_commit": "2017-05-10T14:55:06Z",
+                "owner": "iangreenleaf",
+                "repo": "hubot-partychat-hooks",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Partychat"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15492024,
+                "language": "CoffeeScript",
+                "last_commit": "2016-02-15T03:31:44Z",
+                "owner": "xhan",
+                "repo": "qqbot",
+                "stars": 1434
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "QQ"
         },
         {
           "children": [
@@ -574,6 +772,28 @@
           "description": null,
           "node_type": "group",
           "title": "Skype"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47840768,
+                "language": "CoffeeScript",
+                "last_commit": "2016-10-24T18:57:19Z",
+                "owner": "ellisv",
+                "repo": "hubot-skyweb",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Skyweb"
         },
         {
           "children": [
@@ -776,6 +996,50 @@
           "description": null,
           "node_type": "group",
           "title": "Slack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Opsdroid",
+              "description": "+ connector (Python)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 103402275,
+                "language": "Python",
+                "last_commit": "2019-09-09T09:08:08Z",
+                "owner": "opsdroid",
+                "repo": "connector-ciscospark",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spark"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2852562,
+                "language": "CoffeeScript",
+                "last_commit": "2013-11-05T21:16:59Z",
+                "owner": "unixcharles",
+                "repo": "hubot-talker",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Talker"
         },
         {
           "children": [
@@ -1019,6 +1283,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 16521420,
+                "language": "JavaScript",
+                "last_commit": "2024-06-18T11:11:26Z",
+                "owner": "nulab",
+                "repo": "hubot-typetalk",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Typetalk"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22527115,
+                "language": "CoffeeScript",
+                "last_commit": "2018-05-11T17:01:24Z",
+                "owner": "victorops",
+                "repo": "hubot-victorops",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VictorOps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20722126,
+                "language": "CoffeeScript",
+                "last_commit": "2014-11-25T07:20:30Z",
+                "owner": "scrumdod",
+                "repo": "hubot-vsonline",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visual Studio Online"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Errbot",
               "description": "+ adapter (Python)",
               "children": [],
@@ -1098,6 +1428,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3089930,
+                "language": "CoffeeScript",
+                "last_commit": "2023-10-12T14:38:23Z",
+                "owner": "athieriot",
+                "repo": "hubot-yammer",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Yammer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hubot",
+              "description": "+ adapter (CoffeeScript, Node.js)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
                 "id": 13748956,
                 "language": "CoffeeScript",
                 "last_commit": "2023-09-20T23:00:37Z",
@@ -1131,7 +1483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:57:42.782Z",
+    "last_updated": "2026-08-24T14:14:15.501Z",
     "original_repository": "exAspArk/awesome-chatops",
     "original_repository_id": 63793563,
     "original_repository_sha": "540083ff5535a985d95f94557b98db8a11e186ac",
