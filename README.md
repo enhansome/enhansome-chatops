@@ -266,7 +266,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Telegram
 
-* [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,426 | 🐛 0 | 🌐 Ruby | 📅 2026-08-02 (Ruby)
+* [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,426 | 🐛 1 | 🌐 Ruby | 📅 2026-08-24 (Ruby)
 * [TelegramBot](https://github.com/eljojo/telegram_bot) ⚠️ Archived (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/lukefx/hubot-telegram) ⭐ 160 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-06 (CoffeeScript, Node.js)
 * [TelegramBot](https://github.com/hangyas/TelegramBot) ⭐ 74 | 🐛 0 | 🌐 Crystal | 📅 2020-04-14 (Crystal)
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
