@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 5291178,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2013-04-05T13:33:49Z",
+                "open_issues": 1,
                 "owner": "shaundubuque",
                 "repo": "hubot-aim",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Campfire adapter for lita",
+                "homepage": null,
                 "id": 11506414,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2021-06-25T06:16:46Z",
+                "open_issues": 0,
                 "owner": "josacar",
                 "repo": "lita-campfire",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the campfire backend for errbot",
+                "homepage": null,
                 "id": 39521137,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2016-06-06T23:18:18Z",
+                "open_issues": 3,
                 "owner": "errbotio",
                 "repo": "err-backend-campfire",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -74,12 +89,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hubot adapter for chatwork",
+                "homepage": "https://npmjs.org/package/hubot-chatwork",
                 "id": 14786367,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2017-04-23T00:55:56Z",
+                "open_issues": 2,
                 "owner": "akiomik",
                 "repo": "hubot-chatwork",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "chatwork",
+                  "hubot-adapter"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -90,12 +113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ChatWork adapter for Lita.",
+                "homepage": null,
                 "id": 30073952,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-08-19T06:23:03Z",
+                "open_issues": 1,
                 "owner": "tokada",
                 "repo": "lita-chatwork",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -113,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backend for Discord for Errbot ",
+                "homepage": null,
                 "id": 59597750,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-13T14:36:51Z",
+                "open_issues": 1,
                 "owner": "errbotio",
                 "repo": "err-backend-discord",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -129,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord API for Ruby ",
+                "homepage": null,
                 "id": 449438732,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-04-12T10:40:50Z",
+                "open_issues": 0,
                 "owner": "meew0",
                 "repo": "discordrb",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -152,12 +190,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.",
+                "homepage": null,
                 "id": 47851629,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-01T02:28:35Z",
+                "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582
+                "stars": 11582,
+                "topics": [
+                  "bot",
+                  "bot-application",
+                  "botkit",
+                  "botkit-studio",
+                  "bots",
+                  "chatbot",
+                  "cisco-spark",
+                  "conversational-ui",
+                  "facebook",
+                  "facebook-bot",
+                  "facebook-messenger",
+                  "glitch",
+                  "making-bots",
+                  "microsoft-bot-framework",
+                  "microsoft-teams",
+                  "slack",
+                  "sms",
+                  "twilio",
+                  "web-bot",
+                  "workplacebyfacebook"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -168,12 +232,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Definitely the best way to make Bots on Facebook Messenger with Ruby",
+                "homepage": null,
                 "id": 56318788,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-12-19T13:39:38Z",
+                "open_issues": 16,
                 "owner": "jgorset",
                 "repo": "facebook-messenger",
-                "stars": 969
+                "stars": 969,
+                "topics": [
+                  "bot",
+                  "facebook",
+                  "messenger",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -184,12 +258,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":electric_plug: A Hubot adapter for Facebook Messenger Platform (Bots) with zero external dependencies.",
+                "homepage": null,
                 "id": 56101103,
                 "language": "CoffeeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-02-25T21:39:33Z",
+                "open_issues": 1,
                 "owner": "ClaudeBot",
                 "repo": "hubot-messenger-bot",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "chatops",
+                  "facebook",
+                  "facebook-messenger-api",
+                  "facebook-messenger-platform",
+                  "hubot",
+                  "hubot-adapter",
+                  "hubot-adapters"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -200,12 +287,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📡 A facebook messenger connector for opsdroid",
+                "homepage": null,
                 "id": 94115048,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-06T08:39:06Z",
+                "open_issues": 0,
                 "owner": "opsdroid",
                 "repo": "connector-facebook",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -223,12 +315,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Hubot adapter for http://fleep.io",
+                "homepage": null,
                 "id": 22781999,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2022-09-20T07:52:24Z",
+                "open_issues": 0,
                 "owner": "anroots",
                 "repo": "hubot-fleep",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "fleep",
+                  "hubot",
+                  "hubot-adapter"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -246,12 +347,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Flowdock adapter for Hubot chat bot",
+                "homepage": null,
                 "id": 2772575,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2020-07-30T18:34:08Z",
+                "open_issues": 21,
                 "owner": "flowdock",
                 "repo": "hubot-flowdock",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "flowdock",
+                  "hubot-flowdock"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -262,12 +371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flowdock adapter for the lita.io chatbot",
+                "homepage": "https://lita.io",
                 "id": 29892864,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-10-27T21:12:43Z",
+                "open_issues": 4,
                 "owner": "bhouse",
                 "repo": "lita-flowdock",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -285,12 +399,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hubot adapter for Gitter",
+                "homepage": null,
                 "id": 22799356,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2018-03-13T10:57:42Z",
+                "open_issues": 8,
                 "owner": "huafu",
                 "repo": "hubot-gitter2",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "hubot",
+                  "hubot-adapters"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -301,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gitter.im backend for err",
+                "homepage": null,
                 "id": 38651474,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-03T21:53:48Z",
+                "open_issues": 6,
                 "owner": "errbotio",
                 "repo": "err-backend-gitter",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -317,12 +444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gitter adapter for the Lita chat bot.",
+                "homepage": "http://lita.io",
                 "id": 37741807,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2015-10-23T15:35:55Z",
+                "open_issues": 2,
                 "owner": "kotovalexarian",
                 "repo": "lita-gitter",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -340,12 +472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HipChat adapter for GitHub's Hubot",
+                "homepage": "https://www.hipchat.com/help/page/bots",
                 "id": 2752836,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2021-05-06T17:25:26Z",
+                "open_issues": 37,
                 "owner": "hipchat",
                 "repo": "hubot-hipchat",
-                "stars": 659
+                "stars": 659,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -356,12 +493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go client library for the HipChat API v2",
+                "homepage": null,
                 "id": 24943022,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-24T20:41:14Z",
+                "open_issues": 2,
                 "owner": "tbruyelle",
                 "repo": "hipchat-go",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -372,12 +514,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A golang package to communicate with HipChat over XMPP",
+                "homepage": null,
                 "id": 9724058,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2017-06-12T14:49:06Z",
+                "open_issues": 1,
                 "owner": "dane",
                 "repo": "hipchat",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -388,12 +535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HipChat bot written in ruby and eventmachine",
+                "homepage": null,
                 "id": 4694204,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-11-19T13:46:19Z",
+                "open_issues": 3,
                 "owner": "pewniak747",
                 "repo": "hipbot",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -404,12 +556,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A HipChat adapter for Lita.",
+                "homepage": null,
                 "id": 10702152,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-01-18T00:16:09Z",
+                "open_issues": 18,
                 "owner": "litaio",
                 "repo": "lita-hipchat",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "chatbot",
+                  "chatops",
+                  "hipchat",
+                  "hipchat-bot",
+                  "lita",
+                  "lita-adapter",
+                  "ruby",
+                  "xmpp"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -427,12 +593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Idobata adapter for the Lita chat robot.",
+                "homepage": "http://rubygems.org/gems/lita-idobata",
                 "id": 18997403,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-01-14T12:51:42Z",
+                "open_issues": 7,
                 "owner": "fukayatsu",
                 "repo": "lita-idobata",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -450,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iMessage adapter for Hubot",
+                "homepage": null,
                 "id": 8348820,
                 "language": "AppleScript",
+                "license": "MIT",
                 "last_commit": "2014-04-17T13:10:18Z",
+                "open_issues": 3,
                 "owner": "lazerwalker",
                 "repo": "hubot-imessage",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -473,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The IRC Bot Building Framework",
+                "homepage": "http://www.rubydoc.info/gems/cinch",
                 "id": 625346,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-04-13T16:11:08Z",
+                "open_issues": 32,
                 "owner": "cinchrb",
                 "repo": "cinch",
-                "stars": 999
+                "stars": 999,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -489,12 +670,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Extreme chatops bot for Slack, Discord, Mattermost, IRC 🔧 New contributors welcome 🏗",
+                "homepage": "https://yetibot.com",
                 "id": 2977472,
                 "language": "Clojure",
-                "last_commit": "2026-08-20T22:35:52Z",
+                "license": "EPL-1.0",
+                "last_commit": "2026-08-29T00:02:07Z",
+                "open_issues": 307,
                 "owner": "yetibot",
                 "repo": "yetibot",
-                "stars": 361
+                "stars": 361,
+                "topics": [
+                  "chatbot",
+                  "chatops",
+                  "clojure",
+                  "docker",
+                  "irc",
+                  "slack",
+                  "unix-pipes",
+                  "yetibot"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -505,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IRC adapter for Hubot",
+                "homepage": null,
                 "id": 2859856,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2021-11-24T19:28:58Z",
+                "open_issues": 14,
                 "owner": "nandub",
                 "repo": "hubot-irc",
-                "stars": 299
+                "stars": 299,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -521,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage Pagerduty on-call schedules from within your internal chat channels.",
+                "homepage": "https://stripe.com/blog/pagerbot",
                 "id": 22235681,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-02-24T09:42:37Z",
+                "open_issues": 18,
                 "owner": "stripe-contrib",
                 "repo": "pagerbot",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -537,12 +742,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An IRC adapter for Lita.",
+                "homepage": null,
                 "id": 10685040,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-08-02T06:12:33Z",
+                "open_issues": 1,
                 "owner": "litaio",
                 "repo": "lita-irc",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "chatops",
+                  "irc",
+                  "irc-bot",
+                  "lita",
+                  "lita-adapter",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -560,12 +777,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Hubot Adapter for Let's Chat",
+                "homepage": null,
                 "id": 9741309,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2015-12-05T02:35:33Z",
+                "open_issues": 3,
                 "owner": "sdelements",
                 "repo": "hubot-lets-chat",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -583,12 +805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 18087829,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2014-04-02T21:50:55Z",
+                "open_issues": 1,
                 "owner": "miyagawa",
                 "repo": "hubot-lingr",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -606,12 +833,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📡  A Matrix connector for opsdroid",
+                "homepage": null,
                 "id": 107049735,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-16T15:34:58Z",
+                "open_issues": 0,
                 "owner": "opsdroid",
                 "repo": "connector-matrix",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -629,12 +861,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Hubot adapter for Mattermost using Web API and Websockets",
+                "homepage": null,
                 "id": 51656135,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-01-17T10:57:33Z",
+                "open_issues": 20,
                 "owner": "loafoe",
                 "repo": "hubot-matteruser",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "hubot",
+                  "hubot-adapter",
+                  "mattermost",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -645,12 +887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hubot adapter for Mattermost",
+                "homepage": null,
                 "id": 45951212,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2017-01-15T12:17:33Z",
+                "open_issues": 9,
                 "owner": "renanvicente",
                 "repo": "hubot-mattermost",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -661,12 +908,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 82108873,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-10T06:12:29Z",
+                "open_issues": 9,
                 "owner": "errbotio",
                 "repo": "err-backend-mattermost",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -684,12 +936,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Hubot adapter for Partychat using partychat-hooks",
+                "homepage": null,
                 "id": 2830322,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2017-05-10T14:55:06Z",
+                "open_issues": 2,
                 "owner": "iangreenleaf",
                 "repo": "hubot-partychat-hooks",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -707,12 +964,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于WebQQ协议的QQ机器人。命令行工具，Hubot支持！",
+                "homepage": null,
                 "id": 15492024,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-02-15T03:31:44Z",
+                "open_issues": 23,
                 "owner": "xhan",
                 "repo": "qqbot",
-                "stars": 1434
+                "stars": 1434,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -730,12 +992,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Rocket.Chat Hubot adapter",
+                "homepage": null,
                 "id": 36918949,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-11T19:32:14Z",
+                "open_issues": 74,
                 "owner": "RocketChat",
                 "repo": "hubot-rocketchat",
-                "stars": 594
+                "stars": 594,
+                "topics": [
+                  "hubot",
+                  "hubot-adapter",
+                  "rocketchat"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -746,12 +1017,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Errbot backend for Rocket.Chat.",
+                "homepage": null,
                 "id": 76524603,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-12-15T16:28:49Z",
+                "open_issues": 1,
                 "owner": "AoiKuiyuyou",
                 "repo": "AoikRocketChatErrbot",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -769,12 +1045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skype adapter for hubot",
+                "homepage": null,
                 "id": 4348757,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2014-02-04T04:17:06Z",
+                "open_issues": 6,
                 "owner": "netpro2k",
                 "repo": "hubot-skype",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -785,12 +1066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Skype adapter for Hubot that connects via Skype web.",
+                "homepage": null,
                 "id": 38257395,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-10-18T16:18:28Z",
+                "open_issues": 7,
                 "owner": "sdimkov",
                 "repo": "hubot-skype-web",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -801,12 +1087,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Skype backend for errbot",
+                "homepage": "http://errbot.io",
                 "id": 53181944,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-16T06:37:39Z",
+                "open_issues": 2,
                 "owner": "errbotio",
                 "repo": "err-backend-skype",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -824,12 +1115,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Skype adapter for Hubot using Skyweb.",
+                "homepage": null,
                 "id": 47840768,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-10-24T18:57:19Z",
+                "open_issues": 1,
                 "owner": "ellisv",
                 "repo": "hubot-skyweb",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "hubot",
+                  "hubot-adapter",
+                  "skype",
+                  "skyweb"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -847,12 +1148,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.",
+                "homepage": null,
                 "id": 47851629,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-01T02:28:35Z",
+                "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582
+                "stars": 11582,
+                "topics": [
+                  "bot",
+                  "bot-application",
+                  "botkit",
+                  "botkit-studio",
+                  "bots",
+                  "chatbot",
+                  "cisco-spark",
+                  "conversational-ui",
+                  "facebook",
+                  "facebook-bot",
+                  "facebook-messenger",
+                  "glitch",
+                  "making-bots",
+                  "microsoft-bot-framework",
+                  "microsoft-teams",
+                  "slack",
+                  "sms",
+                  "twilio",
+                  "web-bot",
+                  "workplacebyfacebook"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -863,12 +1190,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Slack Developer Kit for Hubot",
+                "homepage": "https://tools.slack.dev/hubot-slack/",
                 "id": 9609738,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-12T19:59:33Z",
+                "open_issues": 23,
                 "owner": "slackapi",
                 "repo": "hubot-slack",
-                "stars": 2327
+                "stars": 2327,
+                "topics": [
+                  "bot",
+                  "coffeescript",
+                  "hubot",
+                  "hubot-adapter",
+                  "slack",
+                  "slack-app"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -879,12 +1218,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slack real time messaging and web API client in Elixir",
+                "homepage": null,
                 "id": 28551492,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2024-06-26T22:12:10Z",
+                "open_issues": 17,
                 "owner": "BlakeWilliams",
                 "repo": "Elixir-Slack",
-                "stars": 682
+                "stars": 682,
+                "topics": [
+                  "bot",
+                  "elixir",
+                  "elixir-slack",
+                  "rtm",
+                  "slack"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -895,12 +1245,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powershell-based bot framework",
+                "homepage": null,
                 "id": 77993715,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2025-04-04T20:45:06Z",
+                "open_issues": 37,
                 "owner": "poshbotio",
                 "repo": "PoshBot",
-                "stars": 545
+                "stars": 545,
+                "topics": [
+                  "bot",
+                  "bot-framework",
+                  "bots",
+                  "chatbot",
+                  "chatbot-framework",
+                  "chatbots",
+                  "chatops",
+                  "devops",
+                  "powershell"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -911,12 +1276,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Extreme chatops bot for Slack, Discord, Mattermost, IRC 🔧 New contributors welcome 🏗",
+                "homepage": "https://yetibot.com",
                 "id": 2977472,
                 "language": "Clojure",
-                "last_commit": "2026-08-20T22:35:52Z",
+                "license": "EPL-1.0",
+                "last_commit": "2026-08-29T00:02:07Z",
+                "open_issues": 307,
                 "owner": "yetibot",
                 "repo": "yetibot",
-                "stars": 361
+                "stars": 361,
+                "topics": [
+                  "chatbot",
+                  "chatops",
+                  "clojure",
+                  "docker",
+                  "irc",
+                  "slack",
+                  "unix-pipes",
+                  "yetibot"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -927,12 +1306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage Pagerduty on-call schedules from within your internal chat channels.",
+                "homepage": "https://stripe.com/blog/pagerbot",
                 "id": 22235681,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-02-24T09:42:37Z",
+                "open_issues": 18,
                 "owner": "stripe-contrib",
                 "repo": "pagerbot",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -943,12 +1327,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Slack adapter for Lita.",
+                "homepage": null,
                 "id": 15379685,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-01-17T10:11:37Z",
+                "open_issues": 44,
                 "owner": "litaio",
                 "repo": "lita-slack",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "chatops",
+                  "lita",
+                  "lita-adapter",
+                  "ruby",
+                  "slack",
+                  "slack-bot"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -959,12 +1355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Elixir Slack bot! (work in progress)",
+                "homepage": null,
                 "id": 35307342,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2016-06-27T19:05:58Z",
+                "open_issues": 0,
                 "owner": "koudelka",
                 "repo": "slacker",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -975,12 +1376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby bot for Slack chat, inspired by botsy.",
+                "homepage": null,
                 "id": 16925060,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-08-01T14:28:13Z",
+                "open_issues": 1,
                 "owner": "rlister",
                 "repo": "slackbotsy",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -991,12 +1397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chatbot framework in Clojure",
+                "homepage": null,
                 "id": 29815793,
                 "language": "Clojure",
+                "license": "EPL-1.0",
                 "last_commit": "2015-05-10T07:33:11Z",
+                "open_issues": 1,
                 "owner": "liquidz",
                 "repo": "jubot",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1007,12 +1418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easiest way to write a Slack bot in Ruby.",
+                "homepage": null,
                 "id": 66153833,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-09-22T11:52:44Z",
+                "open_issues": 0,
                 "owner": "dblock",
                 "repo": "slack-ruby-bot",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1023,12 +1439,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A ChatOps bot for Slack with a integrated job queue and RESTful API",
+                "homepage": "http://multivac.chat",
                 "id": 38933818,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-06T10:21:49Z",
+                "open_issues": 0,
                 "owner": "vektorlab",
                 "repo": "multivac",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1039,12 +1460,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📡 A slack connector for opsdroid",
+                "homepage": null,
                 "id": 64331231,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-09-22T14:07:46Z",
+                "open_issues": 5,
                 "owner": "opsdroid",
                 "repo": "connector-slack",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1062,12 +1488,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📡 A Cisco Spark connector for opsdroid",
+                "homepage": null,
                 "id": 103402275,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-09-09T09:08:08Z",
+                "open_issues": 0,
                 "owner": "opsdroid",
                 "repo": "connector-ciscospark",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1085,12 +1516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Talker adapter for Hubot",
+                "homepage": null,
                 "id": 2852562,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2013-11-05T21:16:59Z",
+                "open_issues": 2,
                 "owner": "unixcharles",
                 "repo": "hubot-talker",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1108,12 +1544,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby wrapper for Telegram's Bot API",
+                "homepage": "https://core.telegram.org/bots/api",
                 "id": 38169179,
                 "language": "Ruby",
+                "license": "WTFPL",
                 "last_commit": "2026-08-25T21:30:41Z",
+                "open_issues": 1,
                 "owner": "atipugin",
                 "repo": "telegram-bot-ruby",
-                "stars": 1426
+                "stars": 1426,
+                "topics": [
+                  "ruby",
+                  "telegram",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1124,12 +1569,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A charismatic Ruby client for Telegram's Bot API",
+                "homepage": null,
                 "id": 38015820,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-09-14T21:38:37Z",
+                "open_issues": 23,
                 "owner": "eljojo",
                 "repo": "telegram_bot",
-                "stars": 296
+                "stars": 296,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1140,12 +1590,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hubot adapter for Telegram",
+                "homepage": null,
                 "id": 38040687,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T13:26:40Z",
+                "open_issues": 24,
                 "owner": "lukefx",
                 "repo": "hubot-telegram",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "hubot",
+                  "hubot-adapter",
+                  "telegram",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1156,12 +1616,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(deprecated) see https://github.com/protoncr/tourmaline instead",
+                "homepage": null,
                 "id": 45257420,
                 "language": "Crystal",
+                "license": "MIT",
                 "last_commit": "2020-04-14T17:06:11Z",
+                "open_issues": 0,
                 "owner": "hangyas",
                 "repo": "telegram_bot",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "bot",
+                  "crystal",
+                  "telegram",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1172,12 +1642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 41203850,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-03-08T19:47:10Z",
+                "open_issues": 2,
                 "owner": "rmcfadzean",
                 "repo": "lita-telegram",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1188,12 +1663,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📡 A telegram connector for opsdroid",
+                "homepage": null,
                 "id": 80564005,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-21T15:22:30Z",
+                "open_issues": 0,
                 "owner": "opsdroid",
                 "repo": "connector-telegram",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "connector",
+                  "opsdroid"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1211,12 +1694,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tox adapter for the Lita chat bot",
+                "homepage": "http://lita.io",
                 "id": 39656210,
                 "language": "Ruby",
+                "license": "GPL-3.0",
                 "last_commit": "2018-03-23T23:16:46Z",
+                "open_issues": 1,
                 "owner": "toxon",
                 "repo": "lita-tox",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "lita",
+                  "lita-adapter",
+                  "lita-tox",
+                  "tox"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1227,12 +1720,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the TOX backend for errbot",
+                "homepage": null,
                 "id": 39522321,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2015-07-24T20:34:38Z",
+                "open_issues": 1,
                 "owner": "errbotio",
                 "repo": "err-backend-tox",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1250,12 +1748,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.",
+                "homepage": null,
                 "id": 47851629,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-01T02:28:35Z",
+                "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582
+                "stars": 11582,
+                "topics": [
+                  "bot",
+                  "bot-application",
+                  "botkit",
+                  "botkit-studio",
+                  "bots",
+                  "chatbot",
+                  "cisco-spark",
+                  "conversational-ui",
+                  "facebook",
+                  "facebook-bot",
+                  "facebook-messenger",
+                  "glitch",
+                  "making-bots",
+                  "microsoft-bot-framework",
+                  "microsoft-teams",
+                  "slack",
+                  "sms",
+                  "twilio",
+                  "web-bot",
+                  "workplacebyfacebook"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1266,12 +1790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Twilio adapter for the valiant hubot.",
+                "homepage": "http://hubot.github.com",
                 "id": 6069714,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2016-04-22T05:16:02Z",
+                "open_issues": 1,
                 "owner": "jkarmel",
                 "repo": "hubot-twilio",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1282,12 +1811,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hubot adapter for Twilio IP Messaging",
+                "homepage": null,
                 "id": 48137123,
                 "language": "CoffeeScript",
+                "license": "ISC",
                 "last_commit": "2015-12-17T01:08:48Z",
+                "open_issues": 1,
                 "owner": "philnash",
                 "repo": "hubot-twilio-ip-messaging",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1305,12 +1839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Twitter adapter for Hubot",
+                "homepage": null,
                 "id": 2830807,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2015-06-03T13:13:04Z",
+                "open_issues": 16,
                 "owner": "MathildeLemee",
                 "repo": "hubot-twitter",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1321,12 +1860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Twitter adapter for the Lita chat robot.",
+                "homepage": "http://rubygems.org/gems/lita-twitter",
                 "id": 19379583,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-12-19T11:10:13Z",
+                "open_issues": 1,
                 "owner": "fukayatsu",
                 "repo": "lita-twitter",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1337,12 +1881,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📡 A twitter connector for opsdroid",
+                "homepage": null,
                 "id": 82064846,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-04-03T07:44:58Z",
+                "open_issues": 4,
                 "owner": "opsdroid",
                 "repo": "connector-twitter",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1360,12 +1909,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A hubot adapter for Typetalk.",
+                "homepage": "https://www.npmjs.org/package/hubot-typetalk",
                 "id": 16521420,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-18T11:11:26Z",
+                "open_issues": 2,
                 "owner": "nulab",
                 "repo": "hubot-typetalk",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "hubot-adapter",
+                  "typetalk"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1383,12 +1940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hubot VictorOps Adapter",
+                "homepage": null,
                 "id": 22527115,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2018-05-11T17:01:24Z",
+                "open_issues": 5,
                 "owner": "victorops",
                 "repo": "hubot-victorops",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1406,12 +1968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hubot adapter for Visual Studio Online",
+                "homepage": null,
                 "id": 20722126,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2014-11-25T07:20:30Z",
+                "open_issues": 2,
                 "owner": "scrumdod",
                 "repo": "hubot-vsonline",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1429,12 +1996,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Errbot backend for VK API (vk.com)",
+                "homepage": null,
                 "id": 68133442,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-02-21T18:06:42Z",
+                "open_issues": 1,
                 "owner": "Ax3Effect",
                 "repo": "errbot-vk",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "chatbot",
+                  "errbot",
+                  "vk",
+                  "vk-api"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1445,12 +2022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VKontakte adapter for the Lita chat bot.",
+                "homepage": "http://lita.io",
                 "id": 37559252,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2015-10-25T12:38:42Z",
+                "open_issues": 1,
                 "owner": "kotovalexarian",
                 "repo": "lita-vkontakte",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1468,12 +2050,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XMPP adapter for Hubot",
+                "homepage": null,
                 "id": 2769757,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-30T19:16:36Z",
+                "open_issues": 25,
                 "owner": "xmppjs",
                 "repo": "hubot-xmpp",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "hubot",
+                  "hubot-adapter",
+                  "xmpp"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1484,12 +2075,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple framework for creating Jabber bots",
+                "homepage": null,
                 "id": 31476761,
                 "language": "Clojure",
+                "license": "EPL-1.0",
                 "last_commit": "2018-11-16T22:09:42Z",
+                "open_issues": 0,
                 "owner": "vbauer",
                 "repo": "jabberjay",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "clj",
+                  "clojure",
+                  "jabber",
+                  "jabber-bot"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1507,12 +2108,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the Yammer adapter for hubot that allows you to send a message to him with Yammer and he will happily reply the same way.",
+                "homepage": null,
                 "id": 3089930,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2023-10-12T14:38:23Z",
+                "open_issues": 6,
                 "owner": "athieriot",
                 "repo": "hubot-yammer",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "hubot-adapter"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1530,12 +2138,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 13748956,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2023-09-20T23:00:37Z",
+                "open_issues": 6,
                 "owner": "zulip",
                 "repo": "hubot-zulip",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "hubot",
+                  "hubot-adapter",
+                  "zulip"
+                ]
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             },
@@ -1546,12 +2163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zulip backend for err.",
+                "homepage": null,
                 "id": 105759350,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-03T19:03:02Z",
+                "open_issues": 3,
                 "owner": "zulip",
                 "repo": "errbot-backend-zulip",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
             }
@@ -1565,15 +2187,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:23:30.566Z",
+    "last_updated": "2026-08-29T04:36:04.930Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
+      "homepage": null,
       "id": 63793563,
       "language": null,
+      "license": null,
       "last_commit": "2021-10-30T19:17:39Z",
+      "open_issues": 4,
       "owner": "exAspArk",
       "repo": "awesome-chatops",
-      "stars": 983
+      "stars": 983,
+      "topics": [
+        "awesome",
+        "bots",
+        "chatbot",
+        "chatops"
+      ]
     },
     "original_repository_sha": "540083ff5535a985d95f94557b98db8a11e186ac",
     "enhanced_repository": "enhansome/enhansome-chatops",
