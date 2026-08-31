@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582,
+                "stars": 11579,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -675,11 +675,11 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-08-29T17:14:11Z",
+                "last_commit": "2026-08-30T23:53:34Z",
                 "open_issues": 307,
                 "owner": "yetibot",
                 "repo": "yetibot",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "chatbot",
                   "chatops",
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582,
+                "stars": 11579,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1281,11 +1281,11 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-08-29T17:14:11Z",
+                "last_commit": "2026-08-30T23:53:34Z",
                 "open_issues": 307,
                 "owner": "yetibot",
                 "repo": "yetibot",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "chatbot",
                   "chatops",
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582,
+                "stars": 11579,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:24:17.393Z",
+    "last_updated": "2026-08-31T05:34:46.924Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
