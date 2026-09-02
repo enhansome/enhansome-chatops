@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11579,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -241,7 +241,7 @@
                 "open_issues": 16,
                 "owner": "jgorset",
                 "repo": "facebook-messenger",
-                "stars": 969,
+                "stars": 968,
                 "topics": [
                   "bot",
                   "facebook",
@@ -973,7 +973,7 @@
                 "open_issues": 23,
                 "owner": "xhan",
                 "repo": "qqbot",
-                "stars": 1434,
+                "stars": 1435,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11579,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1553,7 +1553,7 @@
                 "open_issues": 1,
                 "owner": "atipugin",
                 "repo": "telegram-bot-ruby",
-                "stars": 1426,
+                "stars": 1425,
                 "topics": [
                   "ruby",
                   "telegram",
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11579,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2002,7 +2002,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2019-02-21T18:06:42Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "Ax3Effect",
                 "repo": "errbot-vk",
                 "stars": 7,
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T05:08:13.133Z",
+    "last_updated": "2026-09-02T04:34:07.897Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
