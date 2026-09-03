@@ -2002,7 +2002,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2019-02-21T18:06:42Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Ax3Effect",
                 "repo": "errbot-vk",
                 "stars": 7,
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:34:07.897Z",
+    "last_updated": "2026-09-03T04:35:00.747Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
@@ -2199,7 +2199,7 @@
       "open_issues": 4,
       "owner": "exAspArk",
       "repo": "awesome-chatops",
-      "stars": 983,
+      "stars": 984,
       "topics": [
         "awesome",
         "bots",

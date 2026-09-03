@@ -306,7 +306,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Vkontakte
 
-* [Errbot](http://errbot.io) + [adapter](https://github.com/Ax3Effect/errbot-vk) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2019-02-21 (Python)
+* [Errbot](http://errbot.io) + [adapter](https://github.com/Ax3Effect/errbot-vk) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2019-02-21 (Python)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/braiden-vasco/lita-vkontakte) ⭐ 1 | 🐛 1 | 🌐 Ruby | 📅 2015-10-25 (Ruby)
 
 ### WeChat
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
