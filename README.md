@@ -139,7 +139,7 @@ These open source projects will help you to build a bot to automate your company
 ### Facebook Messenger
 
 * [Botkit](https://github.com/howdyai/botkit) ⚠️ Archived (JavaScript, Node.js)
-* [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) ⭐ 968 | 🐛 16 | 🌐 Ruby | 📅 2025-12-19 (Ruby)
+* [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) ⭐ 967 | 🐛 16 | 🌐 Ruby | 📅 2025-12-19 (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/ClaudeBot/hubot-messenger-bot) ⭐ 40 | 🐛 1 | 🌐 CoffeeScript | 📅 2018-02-25 (CoffeeScript, Node.js)
 * [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-facebook) ⚠️ Archived (Python)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/ASoftCo/lita-facebook) (Ruby)
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
