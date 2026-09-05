@@ -161,7 +161,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### HipChat
 
-* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/hipchat/hubot-hipchat) ⭐ 659 | 🐛 37 | 🌐 CoffeeScript | 📅 2021-05-06 (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/hipchat/hubot-hipchat) ⭐ 658 | 🐛 37 | 🌐 CoffeeScript | 📅 2021-05-06 (CoffeeScript, Node.js)
 * [Hipchat-go](https://github.com/tbruyelle/hipchat-go) ⭐ 122 | 🐛 2 | 🌐 Go | 📅 2018-10-24 via HipChat API v2 (Go)
 * [Hipchat](https://github.com/daneharrigan/hipchat) ⭐ 111 | 🐛 1 | 🌐 Go | 📅 2017-06-12 via XMPP (Go)
 * [Hipbot](https://github.com/pewniak747/hipbot) ⭐ 87 | 🐛 3 | 🌐 Ruby | 📅 2017-11-19 (Ruby)
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
