@@ -217,7 +217,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### QQ
 
-* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/xhan/qqbot) ⭐ 1,435 | 🐛 23 | 🌐 CoffeeScript | 📅 2016-02-15 (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/xhan/qqbot) ⭐ 1,436 | 🐛 23 | 🌐 CoffeeScript | 📅 2016-02-15 (CoffeeScript, Node.js)
 
 ### Rocket.Chat
 
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
