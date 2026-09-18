@@ -1406,7 +1406,7 @@
                 "open_issues": 1,
                 "owner": "liquidz",
                 "repo": "jubot",
-                "stars": 67,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T04:52:49.229Z",
+    "last_updated": "2026-09-18T04:43:29.893Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
@@ -2199,7 +2199,7 @@
       "open_issues": 4,
       "owner": "exAspArk",
       "repo": "awesome-chatops",
-      "stars": 986,
+      "stars": 985,
       "topics": [
         "awesome",
         "bots",

@@ -246,7 +246,7 @@ These open source projects will help you to build a bot to automate your company
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-slack) ⚠️ Archived (Ruby)
 * [Slacker](https://github.com/koudelka/slacker) ⭐ 81 | 🐛 0 | 🌐 Elixir | 📅 2016-06-27 (Elixir)
 * [Slackbotsy](https://github.com/rlister/slackbotsy) ⭐ 76 | 🐛 1 | 🌐 Ruby | 📅 2017-08-01 (Ruby)
-* [Jubot](https://github.com/liquidz/jubot) ⭐ 67 | 🐛 1 | 🌐 Clojure | 📅 2015-05-10 (Clojure)
+* [Jubot](https://github.com/liquidz/jubot) ⭐ 66 | 🐛 1 | 🌐 Clojure | 📅 2015-05-10 (Clojure)
 * [Slack-Ruby-Bot](https://github.com/dblock/slack-ruby-bot) ⭐ 49 | 🐛 0 | 🌐 Ruby | 📅 2025-09-22 (Ruby)
 * [Multivac](https://github.com/vektorlab/multivac) ⚠️ Archived (Python, Docker)
 * [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-slack) ⚠️ Archived (Python)
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
