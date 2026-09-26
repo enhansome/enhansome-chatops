@@ -241,7 +241,7 @@
                 "open_issues": 16,
                 "owner": "jgorset",
                 "repo": "facebook-messenger",
-                "stars": 967,
+                "stars": 966,
                 "topics": [
                   "bot",
                   "facebook",
@@ -1553,7 +1553,7 @@
                 "open_issues": 1,
                 "owner": "atipugin",
                 "repo": "telegram-bot-ruby",
-                "stars": 1425,
+                "stars": 1424,
                 "topics": [
                   "ruby",
                   "telegram",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T04:57:33.143Z",
+    "last_updated": "2026-09-26T04:58:04.902Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",

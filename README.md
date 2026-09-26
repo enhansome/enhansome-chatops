@@ -139,7 +139,7 @@ These open source projects will help you to build a bot to automate your company
 ### Facebook Messenger
 
 * [Botkit](https://github.com/howdyai/botkit) ⚠️ Archived (JavaScript, Node.js)
-* [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) ⭐ 967 | 🐛 16 | 🌐 Ruby | 📅 2025-12-19 (Ruby)
+* [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) ⭐ 966 | 🐛 16 | 🌐 Ruby | 📅 2025-12-19 (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/ClaudeBot/hubot-messenger-bot) ⭐ 40 | 🐛 1 | 🌐 CoffeeScript | 📅 2018-02-25 (CoffeeScript, Node.js)
 * [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-facebook) ⚠️ Archived (Python)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/ASoftCo/lita-facebook) (Ruby)
@@ -266,7 +266,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Telegram
 
-* [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,425 | 🐛 1 | 🌐 Ruby | 📅 2026-08-25 (Ruby)
+* [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,424 | 🐛 1 | 🌐 Ruby | 📅 2026-08-25 (Ruby)
 * [TelegramBot](https://github.com/eljojo/telegram_bot) ⚠️ Archived (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/lukefx/hubot-telegram) ⭐ 160 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-06 (CoffeeScript, Node.js)
 * [TelegramBot](https://github.com/hangyas/TelegramBot) ⭐ 74 | 🐛 0 | 🌐 Crystal | 📅 2020-04-14 (Crystal)
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
