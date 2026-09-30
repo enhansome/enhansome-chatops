@@ -1199,7 +1199,7 @@
                 "open_issues": 23,
                 "owner": "slackapi",
                 "repo": "hubot-slack",
-                "stars": 2326,
+                "stars": 2327,
                 "topics": [
                   "bot",
                   "coffeescript",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:43:59.380Z",
+    "last_updated": "2026-09-30T05:32:37.821Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
