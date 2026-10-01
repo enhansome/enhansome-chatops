@@ -241,7 +241,7 @@
                 "open_issues": 16,
                 "owner": "jgorset",
                 "repo": "facebook-messenger",
-                "stars": 966,
+                "stars": 967,
                 "topics": [
                   "bot",
                   "facebook",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:32:37.821Z",
+    "last_updated": "2026-10-01T05:53:40.264Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
