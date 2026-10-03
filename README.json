@@ -1553,7 +1553,7 @@
                 "open_issues": 1,
                 "owner": "atipugin",
                 "repo": "telegram-bot-ruby",
-                "stars": 1424,
+                "stars": 1425,
                 "topics": [
                   "ruby",
                   "telegram",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:04.561Z",
+    "last_updated": "2026-10-03T05:18:40.741Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
