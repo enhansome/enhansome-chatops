@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:52.274Z",
+    "last_updated": "2026-10-07T05:59:25.505Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
@@ -2199,7 +2199,7 @@
       "open_issues": 4,
       "owner": "exAspArk",
       "repo": "awesome-chatops",
-      "stars": 985,
+      "stars": 984,
       "topics": [
         "awesome",
         "bots",
