@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582,
+                "stars": 11583,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -241,7 +241,7 @@
                 "open_issues": 16,
                 "owner": "jgorset",
                 "repo": "facebook-messenger",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "bot",
                   "facebook",
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582,
+                "stars": 11583,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1553,7 +1553,7 @@
                 "open_issues": 1,
                 "owner": "atipugin",
                 "repo": "telegram-bot-ruby",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": [
                   "ruby",
                   "telegram",
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582,
+                "stars": 11583,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:08:31.133Z",
+    "last_updated": "2026-10-10T05:52:53.315Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
