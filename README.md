@@ -325,7 +325,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Zulip
 
-* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/zulip/hubot-zulip) ⭐ 23 | 🐛 6 | 🌐 CoffeeScript | 📅 2023-09-20 (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/zulip/hubot-zulip) ⭐ 24 | 🐛 6 | 🌐 CoffeeScript | 📅 2023-09-20 (CoffeeScript, Node.js)
 * [Errbot](http://errbot.io/) + [adapter](https://github.com/zulip/errbot-backend-zulip) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2025-10-03 (Python)
 
 ***
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
