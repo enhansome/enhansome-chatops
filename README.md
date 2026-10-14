@@ -217,7 +217,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### QQ
 
-* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/xhan/qqbot) ⭐ 1,435 | 🐛 23 | 🌐 CoffeeScript | 📅 2016-02-15 (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/xhan/qqbot) ⭐ 1,436 | 🐛 23 | 🌐 CoffeeScript | 📅 2016-02-15 (CoffeeScript, Node.js)
 
 ### Rocket.Chat
 
@@ -240,7 +240,7 @@ These open source projects will help you to build a bot to automate your company
 * [Botkit](https://github.com/howdyai/botkit) ⚠️ Archived (JavaScript, Node.js)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/slackhq/hubot-slack) ⚠️ Archived (CoffeeScript, Node.js)
 * [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) ⭐ 682 | 🐛 17 | 🌐 Elixir | 📅 2024-06-26 (Elixir)
-* [PoshBot](https://github.com/poshbotio/PoshBot) ⭐ 547 | 🐛 37 | 🌐 PowerShell | 📅 2025-04-04 (PowerShell)
+* [PoshBot](https://github.com/poshbotio/PoshBot) ⭐ 546 | 🐛 37 | 🌐 PowerShell | 📅 2025-04-04 (PowerShell)
 * [Yetibot](https://github.com/yetibot/yetibot) ⭐ 362 | 🐛 307 | 🌐 Clojure | 📅 2026-09-21 (Clojure)
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) ⭐ 278 | 🐛 18 | 🌐 Ruby | 📅 2019-02-24 (Ruby)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-slack) ⚠️ Archived (Ruby)
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
