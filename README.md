@@ -266,7 +266,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Telegram
 
-* [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,426 | 🐛 1 | 🌐 Ruby | 📅 2026-08-25 (Ruby)
+* [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,425 | 🐛 1 | 🌐 Ruby | 📅 2026-08-25 (Ruby)
 * [TelegramBot](https://github.com/eljojo/telegram_bot) ⚠️ Archived (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/lukefx/hubot-telegram) ⭐ 160 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-06 (CoffeeScript, Node.js)
 * [TelegramBot](https://github.com/hangyas/TelegramBot) ⭐ 74 | 🐛 0 | 🌐 Crystal | 📅 2020-04-14 (Crystal)
@@ -315,7 +315,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### XMPP / Jabber
 
-* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/markstory/hubot-xmpp) ⭐ 183 | 🐛 25 | 🌐 JavaScript | 📅 2022-12-30 (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/markstory/hubot-xmpp) ⭐ 182 | 🐛 25 | 🌐 JavaScript | 📅 2022-12-30 (CoffeeScript, Node.js)
 * [Jabberjay](https://github.com/vbauer/jabberjay) ⭐ 39 | 🐛 0 | 🌐 Clojure | 📅 2018-11-16 (Clojure)
 * [Errbot](http://errbot.io/) (Python)
 
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
