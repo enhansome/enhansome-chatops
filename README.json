@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11584,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11584,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1199,7 +1199,7 @@
                 "open_issues": 23,
                 "owner": "slackapi",
                 "repo": "hubot-slack",
-                "stars": 2323,
+                "stars": 2322,
                 "topics": [
                   "bot",
                   "coffeescript",
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11584,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:25:46.046Z",
+    "last_updated": "2026-10-18T04:33:46.935Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
