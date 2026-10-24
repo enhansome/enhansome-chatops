@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11584,
+                "stars": 11585,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -675,8 +675,8 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-23T04:09:59Z",
-                "open_issues": 310,
+                "last_commit": "2026-10-24T04:18:40Z",
+                "open_issues": 307,
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 362,
@@ -870,7 +870,7 @@
                 "open_issues": 20,
                 "owner": "loafoe",
                 "repo": "hubot-matteruser",
-                "stars": 195,
+                "stars": 194,
                 "topics": [
                   "hubot",
                   "hubot-adapter",
@@ -973,7 +973,7 @@
                 "open_issues": 23,
                 "owner": "xhan",
                 "repo": "qqbot",
-                "stars": 1437,
+                "stars": 1438,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11584,
+                "stars": 11585,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1281,8 +1281,8 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-23T04:09:59Z",
-                "open_issues": 310,
+                "last_commit": "2026-10-24T04:18:40Z",
+                "open_issues": 307,
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 362,
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11584,
+                "stars": 11585,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2059,7 +2059,7 @@
                 "open_issues": 25,
                 "owner": "xmppjs",
                 "repo": "hubot-xmpp",
-                "stars": 182,
+                "stars": 181,
                 "topics": [
                   "hubot",
                   "hubot-adapter",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T04:48:57.829Z",
+    "last_updated": "2026-10-24T04:36:19.741Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",

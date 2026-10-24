@@ -182,7 +182,7 @@ These open source projects will help you to build a bot to automate your company
 ### IRC
 
 * [Cinch](https://github.com/cinchrb/cinch) ⚠️ Archived (Ruby)
-* [Yetibot](https://github.com/yetibot/yetibot) ⭐ 362 | 🐛 310 | 🌐 Clojure | 📅 2026-10-23 (Clojure)
+* [Yetibot](https://github.com/yetibot/yetibot) ⭐ 362 | 🐛 307 | 🌐 Clojure | 📅 2026-10-24 (Clojure)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/nandub/hubot-irc) ⭐ 299 | 🐛 14 | 🌐 CoffeeScript | 📅 2021-11-24 (CoffeeScript, Node.js)
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) ⭐ 278 | 🐛 18 | 🌐 Ruby | 📅 2019-02-24 (Ruby)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-irc) ⚠️ Archived (Ruby)
@@ -217,7 +217,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### QQ
 
-* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/xhan/qqbot) ⭐ 1,437 | 🐛 23 | 🌐 CoffeeScript | 📅 2016-02-15 (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/xhan/qqbot) ⭐ 1,438 | 🐛 23 | 🌐 CoffeeScript | 📅 2016-02-15 (CoffeeScript, Node.js)
 
 ### Rocket.Chat
 
@@ -241,7 +241,7 @@ These open source projects will help you to build a bot to automate your company
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/slackhq/hubot-slack) ⚠️ Archived (CoffeeScript, Node.js)
 * [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) ⭐ 682 | 🐛 17 | 🌐 Elixir | 📅 2024-06-26 (Elixir)
 * [PoshBot](https://github.com/poshbotio/PoshBot) ⭐ 546 | 🐛 37 | 🌐 PowerShell | 📅 2025-04-04 (PowerShell)
-* [Yetibot](https://github.com/yetibot/yetibot) ⭐ 362 | 🐛 310 | 🌐 Clojure | 📅 2026-10-23 (Clojure)
+* [Yetibot](https://github.com/yetibot/yetibot) ⭐ 362 | 🐛 307 | 🌐 Clojure | 📅 2026-10-24 (Clojure)
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) ⭐ 278 | 🐛 18 | 🌐 Ruby | 📅 2019-02-24 (Ruby)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-slack) ⚠️ Archived (Ruby)
 * [Slacker](https://github.com/koudelka/slacker) ⭐ 81 | 🐛 0 | 🌐 Elixir | 📅 2016-06-27 (Elixir)
@@ -315,7 +315,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### XMPP / Jabber
 
-* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/markstory/hubot-xmpp) ⭐ 182 | 🐛 25 | 🌐 JavaScript | 📅 2022-12-30 (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/markstory/hubot-xmpp) ⭐ 181 | 🐛 25 | 🌐 JavaScript | 📅 2022-12-30 (CoffeeScript, Node.js)
 * [Jabberjay](https://github.com/vbauer/jabberjay) ⭐ 39 | 🐛 0 | 🌐 Clojure | 📅 2018-11-16 (Clojure)
 * [Errbot](http://errbot.io/) (Python)
 
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
