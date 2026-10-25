@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11586,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -675,7 +675,7 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-24T04:18:40Z",
+                "last_commit": "2026-10-24T19:01:33Z",
                 "open_issues": 307,
                 "owner": "yetibot",
                 "repo": "yetibot",
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11586,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1281,7 +1281,7 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-24T04:18:40Z",
+                "last_commit": "2026-10-24T19:01:33Z",
                 "open_issues": 307,
                 "owner": "yetibot",
                 "repo": "yetibot",
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11586,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:36:19.741Z",
+    "last_updated": "2026-10-25T04:41:09.981Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
@@ -2199,7 +2199,7 @@
       "open_issues": 6,
       "owner": "exAspArk",
       "repo": "awesome-chatops",
-      "stars": 986,
+      "stars": 987,
       "topics": [
         "awesome",
         "bots",
