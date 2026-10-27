@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11584,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11584,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11584,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T04:47:00.002Z",
+    "last_updated": "2026-10-27T05:04:21.514Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
@@ -2199,7 +2199,7 @@
       "open_issues": 6,
       "owner": "exAspArk",
       "repo": "awesome-chatops",
-      "stars": 987,
+      "stars": 988,
       "topics": [
         "awesome",
         "bots",
