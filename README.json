@@ -675,8 +675,8 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-29T05:39:18Z",
-                "open_issues": 306,
+                "last_commit": "2026-10-30T03:51:07Z",
+                "open_issues": 305,
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 362,
@@ -1281,8 +1281,8 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-10-29T05:39:18Z",
-                "open_issues": 306,
+                "last_commit": "2026-10-30T03:51:07Z",
+                "open_issues": 305,
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 362,
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T05:47:58.178Z",
+    "last_updated": "2026-10-30T05:48:48.699Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
