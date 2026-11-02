@@ -675,8 +675,8 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-01T03:49:44Z",
-                "open_issues": 306,
+                "last_commit": "2026-11-02T00:34:34Z",
+                "open_issues": 305,
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 362,
@@ -1199,7 +1199,7 @@
                 "open_issues": 23,
                 "owner": "slackapi",
                 "repo": "hubot-slack",
-                "stars": 2321,
+                "stars": 2320,
                 "topics": [
                   "bot",
                   "coffeescript",
@@ -1281,8 +1281,8 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-01T03:49:44Z",
-                "open_issues": 306,
+                "last_commit": "2026-11-02T00:34:34Z",
+                "open_issues": 305,
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 362,
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:04:03.033Z",
+    "last_updated": "2026-11-02T06:01:49.229Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
