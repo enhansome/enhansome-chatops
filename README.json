@@ -237,8 +237,8 @@
                 "id": 56318788,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2025-12-19T13:39:38Z",
-                "open_issues": 17,
+                "last_commit": "2026-11-04T19:30:13Z",
+                "open_issues": 15,
                 "owner": "jgorset",
                 "repo": "facebook-messenger",
                 "stars": 968,
@@ -675,7 +675,7 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-04T03:05:27Z",
+                "last_commit": "2026-11-04T13:38:46Z",
                 "open_issues": 305,
                 "owner": "yetibot",
                 "repo": "yetibot",
@@ -1281,7 +1281,7 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-04T03:05:27Z",
+                "last_commit": "2026-11-04T13:38:46Z",
                 "open_issues": 305,
                 "owner": "yetibot",
                 "repo": "yetibot",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:21:42.663Z",
+    "last_updated": "2026-11-05T06:45:38.819Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
