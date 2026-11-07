@@ -139,7 +139,7 @@ These open source projects will help you to build a bot to automate your company
 ### Facebook Messenger
 
 * [Botkit](https://github.com/howdyai/botkit) ⚠️ Archived (JavaScript, Node.js)
-* [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) ⭐ 968 | 🐛 15 | 🌐 Ruby | 📅 2026-11-04 (Ruby)
+* [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) ⭐ 968 | 🐛 16 | 🌐 Ruby | 📅 2026-11-04 (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/ClaudeBot/hubot-messenger-bot) ⭐ 40 | 🐛 1 | 🌐 CoffeeScript | 📅 2018-02-25 (CoffeeScript, Node.js)
 * [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-facebook) ⚠️ Archived (Python)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/ASoftCo/lita-facebook) (Ruby)
@@ -161,7 +161,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### HipChat
 
-* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/hipchat/hubot-hipchat) ⭐ 658 | 🐛 37 | 🌐 CoffeeScript | 📅 2021-05-06 (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/hipchat/hubot-hipchat) ⭐ 657 | 🐛 37 | 🌐 CoffeeScript | 📅 2021-05-06 (CoffeeScript, Node.js)
 * [Hipchat-go](https://github.com/tbruyelle/hipchat-go) ⭐ 122 | 🐛 2 | 🌐 Go | 📅 2018-10-24 via HipChat API v2 (Go)
 * [Hipchat](https://github.com/daneharrigan/hipchat) ⭐ 111 | 🐛 1 | 🌐 Go | 📅 2017-06-12 via XMPP (Go)
 * [Hipbot](https://github.com/pewniak747/hipbot) ⭐ 86 | 🐛 3 | 🌐 Ruby | 📅 2017-11-19 (Ruby)
@@ -182,7 +182,7 @@ These open source projects will help you to build a bot to automate your company
 ### IRC
 
 * [Cinch](https://github.com/cinchrb/cinch) ⚠️ Archived (Ruby)
-* [Yetibot](https://github.com/yetibot/yetibot) ⭐ 362 | 🐛 305 | 🌐 Clojure | 📅 2026-11-06 (Clojure)
+* [Yetibot](https://github.com/yetibot/yetibot) ⭐ 362 | 🐛 305 | 🌐 Clojure | 📅 2026-11-07 (Clojure)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/nandub/hubot-irc) ⭐ 299 | 🐛 14 | 🌐 CoffeeScript | 📅 2021-11-24 (CoffeeScript, Node.js)
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) ⭐ 278 | 🐛 18 | 🌐 Ruby | 📅 2019-02-24 (Ruby)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-irc) ⚠️ Archived (Ruby)
@@ -241,7 +241,7 @@ These open source projects will help you to build a bot to automate your company
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/slackhq/hubot-slack) ⚠️ Archived (CoffeeScript, Node.js)
 * [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) ⭐ 682 | 🐛 17 | 🌐 Elixir | 📅 2024-06-26 (Elixir)
 * [PoshBot](https://github.com/poshbotio/PoshBot) ⭐ 546 | 🐛 37 | 🌐 PowerShell | 📅 2025-04-04 (PowerShell)
-* [Yetibot](https://github.com/yetibot/yetibot) ⭐ 362 | 🐛 305 | 🌐 Clojure | 📅 2026-11-06 (Clojure)
+* [Yetibot](https://github.com/yetibot/yetibot) ⭐ 362 | 🐛 305 | 🌐 Clojure | 📅 2026-11-07 (Clojure)
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) ⭐ 278 | 🐛 18 | 🌐 Ruby | 📅 2019-02-24 (Ruby)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-slack) ⚠️ Archived (Ruby)
 * [Slacker](https://github.com/koudelka/slacker) ⭐ 81 | 🐛 0 | 🌐 Elixir | 📅 2016-06-27 (Elixir)
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
