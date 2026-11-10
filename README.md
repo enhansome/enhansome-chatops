@@ -217,7 +217,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### QQ
 
-* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/xhan/qqbot) ⭐ 1,438 | 🐛 23 | 🌐 CoffeeScript | 📅 2016-02-15 (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/xhan/qqbot) ⭐ 1,437 | 🐛 23 | 🌐 CoffeeScript | 📅 2016-02-15 (CoffeeScript, Node.js)
 
 ### Rocket.Chat
 
@@ -266,7 +266,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Telegram
 
-* [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,425 | 🐛 0 | 🌐 Ruby | 📅 2026-08-25 (Ruby)
+* [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,425 | 🐛 1 | 🌐 HTML | 📅 2026-11-09 (Ruby)
 * [TelegramBot](https://github.com/eljojo/telegram_bot) ⚠️ Archived (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/lukefx/hubot-telegram) ⭐ 160 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-06 (CoffeeScript, Node.js)
 * [TelegramBot](https://github.com/hangyas/TelegramBot) ⭐ 74 | 🐛 0 | 🌐 Crystal | 📅 2020-04-14 (Crystal)
@@ -336,4 +336,4 @@ These open source projects will help you to build a bot to automate your company
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
