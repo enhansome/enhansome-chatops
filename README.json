@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582,
+                "stars": 11583,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -675,8 +675,8 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-07T20:21:40Z",
-                "open_issues": 305,
+                "last_commit": "2026-11-10T21:24:52Z",
+                "open_issues": 306,
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 362,
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582,
+                "stars": 11583,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1281,8 +1281,8 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-07T20:21:40Z",
-                "open_issues": 305,
+                "last_commit": "2026-11-10T21:24:52Z",
+                "open_issues": 306,
                 "owner": "yetibot",
                 "repo": "yetibot",
                 "stars": 362,
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582,
+                "stars": 11583,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:17:18.640Z",
+    "last_updated": "2026-11-11T06:19:21.064Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
