@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11581,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -481,7 +481,7 @@
                 "open_issues": 37,
                 "owner": "hipchat",
                 "repo": "hubot-hipchat",
-                "stars": 657,
+                "stars": 658,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
@@ -1001,7 +1001,7 @@
                 "open_issues": 73,
                 "owner": "RocketChat",
                 "repo": "hubot-rocketchat",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "hubot",
                   "hubot-adapter",
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11581,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11581,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:22:11.561Z",
+    "last_updated": "2026-11-15T06:31:14.144Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
