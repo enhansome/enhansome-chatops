@@ -237,11 +237,11 @@
                 "id": 56318788,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-04T19:30:13Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-15T20:35:14Z",
+                "open_issues": 15,
                 "owner": "jgorset",
                 "repo": "facebook-messenger",
-                "stars": 968,
+                "stars": 967,
                 "topics": [
                   "bot",
                   "facebook",
@@ -675,7 +675,7 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-12T15:26:37Z",
+                "last_commit": "2026-11-15T17:43:53Z",
                 "open_issues": 305,
                 "owner": "yetibot",
                 "repo": "yetibot",
@@ -1199,7 +1199,7 @@
                 "open_issues": 23,
                 "owner": "slackapi",
                 "repo": "hubot-slack",
-                "stars": 2320,
+                "stars": 2319,
                 "topics": [
                   "bot",
                   "coffeescript",
@@ -1281,7 +1281,7 @@
                 "id": 2977472,
                 "language": "Clojure",
                 "license": "EPL-1.0",
-                "last_commit": "2026-11-12T15:26:37Z",
+                "last_commit": "2026-11-15T17:43:53Z",
                 "open_issues": 305,
                 "owner": "yetibot",
                 "repo": "yetibot",
@@ -1385,7 +1385,7 @@
                 "open_issues": 1,
                 "owner": "rlister",
                 "repo": "slackbotsy",
-                "stars": 76,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:23:30.566Z"
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:31:14.144Z",
+    "last_updated": "2026-11-16T06:28:55.856Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
