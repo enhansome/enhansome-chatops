@@ -199,7 +199,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11579,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -356,7 +356,7 @@
                 "open_issues": 21,
                 "owner": "flowdock",
                 "repo": "hubot-flowdock",
-                "stars": 94,
+                "stars": 93,
                 "topics": [
                   "flowdock",
                   "hubot-flowdock"
@@ -1157,7 +1157,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11579,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -1757,7 +1757,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11579,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -2187,7 +2187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:32:21.395Z",
+    "last_updated": "2026-11-28T07:47:50.231Z",
     "original_repository_info": {
       "archived": false,
       "description": ":robot: A collection of awesome things about ChatOps – managing operations through a chat",
